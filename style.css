@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
 }
-div {
+.heading {
   background-color: rgb(175, 22, 22);
   text-align: center;
   color: white;
@@ -17,7 +17,4 @@ tr {
   border: 1px solid black;
   border-collapse: collapse;
   text-align: left;
-}
-.thrise {
-  display: flex;
 }
